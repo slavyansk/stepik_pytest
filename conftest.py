@@ -1,4 +1,5 @@
 import pytest
+import time
 from selenium import webdriver
 
 def pytest_addoption(parser):
